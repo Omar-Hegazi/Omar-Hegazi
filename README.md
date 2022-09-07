@@ -2,5 +2,4 @@
 - 😄 I'm a freelancer in data engineering at Upwork
 - 🌱 I’m currently building my skills in data engineering and buisness intelligence ...
 - 👯 I’m looking to collaborate on data engineering projects or internships
-- 🤔 I’m currently working on my graduation project
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/omar-hegazi/)
